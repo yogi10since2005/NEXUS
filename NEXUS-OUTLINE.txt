@@ -1,0 +1,64 @@
+﻿NEXUS PROJECT OUTLINE
+Project: C:\Users\yogi1\OneDrive\Desktop\NEXUS\nexus
+
+|-- app/
+|   |-- (nexus)/
+|   |   |-- achievements/
+|   |   |   \-- page.tsx
+|   |   |-- ai-studio/
+|   |   |   \-- page.tsx
+|   |   |-- analytics/
+|   |   |   \-- page.tsx
+|   |   |-- developer-hub/
+|   |   |   \-- page.tsx
+|   |   |-- focus/
+|   |   |   \-- page.tsx
+|   |   |-- mini-games/
+|   |   |   \-- page.tsx
+|   |   |-- notes/
+|   |   |   \-- page.tsx
+|   |   |-- profile/
+|   |   |   \-- page.tsx
+|   |   |-- prompt-engineer/
+|   |   |   \-- page.tsx
+|   |   |-- settings/
+|   |   |   \-- page.tsx
+|   |   |-- tasks/
+|   |   |   \-- page.tsx
+|   |   |-- layout.tsx
+|   |   \-- page.tsx
+|   |-- favicon.ico
+|   |-- globals.css
+|   \-- layout.tsx
+|-- components/
+|   |-- ui/
+|   |   |-- 3d-card.tsx
+|   |   |-- button.tsx
+|   |   |-- command.tsx
+|   |   |-- dialog.tsx
+|   |   |-- input.tsx
+|   |   |-- input-group.tsx
+|   |   |-- text-animate.tsx
+|   |   \-- textarea.tsx
+|   |-- command-center.tsx
+|   \-- sidebar.tsx
+|-- lib/
+|   \-- utils.ts
+|-- public/
+|   |-- file.svg
+|   |-- globe.svg
+|   |-- next.svg
+|   |-- vercel.svg
+|   \-- window.svg
+|-- .gitignore
+|-- AGENTS.md
+|-- CLAUDE.md
+|-- components.json
+|-- eslint.config.mjs
+|-- next.config.ts
+|-- next-env.d.ts
+|-- package.json
+|-- package-lock.json
+|-- postcss.config.mjs
+|-- README.md
+\-- tsconfig.json
